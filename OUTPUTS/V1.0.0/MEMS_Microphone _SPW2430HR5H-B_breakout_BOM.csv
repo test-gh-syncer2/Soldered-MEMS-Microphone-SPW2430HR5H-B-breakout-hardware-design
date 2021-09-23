@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;",,,,,,";"buzzardLabel";7;"";;;
+2;"G***";"Symbol-Front-Microphone";1;"LOGO";;;
+3;"U1";"SOT-23-5";1;"SE5218";;;
+4;"C2,C1";"0603C";2;"0.1uF";;;
+5;"H1,H2";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+6;"C3";"0603C";1;"10uF";;;
+7;"REF**";"Logo-Back-SolderedFULL-20mm";1;"Logo-Front-SolderedFULL-20mm";;;
+8;"C4";"0603C";1;"0603C";;;
+9;"MIC1";"SPW2430HR5H-B";1;"SPW2430HR5H-B";;;
+10;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+11;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+12;"G***";"Logo-Front-Soldered-6mm";1;"LOGO";;;
+13;"Ref**";"Version1.0.0.";1;"Val**";;;
+14;"K1";"HEADER_MALE_5X1";1;"HEADER_MALE_5X1";;;
